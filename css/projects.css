@@ -102,3 +102,15 @@
 .view-more {
     text-align: center;
 }
+
+/* Add this to your existing projects.css file */
+.project-link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+}
+
+.project-card:hover .project-link {
+    color: inherit;
+}

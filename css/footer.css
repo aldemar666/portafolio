@@ -1,0 +1,27 @@
+/* Footer */
+footer {
+    background-color: var(--card-bg);
+    padding: 2rem 5%;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.footer-logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+}
+
+footer p {
+    margin-bottom: 1.5rem;
+    color: var(--light-text);
+}
+
+footer .social-links {
+    justify-content: center;
+}
